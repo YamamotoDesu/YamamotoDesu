@@ -8,7 +8,7 @@
  
 - 💬 Ask me about **Swift**  
  
-- 👯 Always looking to collaborate. 
+- 👯 Always looking to collaborate
 </p>
 
 ## &#x1f4c8; GitHub Stats

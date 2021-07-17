@@ -1,7 +1,7 @@
 
 <img src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=YamamotoDesu">
 
 - 🌱 I’m currently learning iOS, Android.
 - 👯 Always looking to collaborate.

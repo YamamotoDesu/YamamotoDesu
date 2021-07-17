@@ -1,9 +1,11 @@
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="120px">
-<img src="https://komarev.com/ghpvc/?username=YamamotoDesu"> 
+<img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
+<img src="https://komarev.com/ghpvc/?username=YamamotoDesu">  
 
-- 🌱 I’m currently learning iOS, Android.
- 
+- 🌱 I’m currently learning **Swift and Algorithms**  
+
+- 💬 Ask me about **Swift**  
+
 - 👯 Always looking to collaborate. 
  
  

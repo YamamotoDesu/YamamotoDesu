@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/47273077/126032514-cd5362e8-7d7b-4e8a-b905-3ea53d982a6f.jpeg" alt="" width="100%">
+<img src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;">
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

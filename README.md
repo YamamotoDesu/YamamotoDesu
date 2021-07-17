@@ -5,3 +5,5 @@
 
 - 🌱 I’m currently learning iOS, Android.
 - 👯 Always looking to collaborate.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YamamotoDesu&hide=contribs,prs)

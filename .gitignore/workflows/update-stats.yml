@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: YamamotoDesu/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.ac0bac34-16f7-41f6-a658-3cc42a4948c5 }}
+          GH_TOKEN: ${{ secrets.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 }}

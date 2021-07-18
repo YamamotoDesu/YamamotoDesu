@@ -2,7 +2,8 @@
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
  
-<img src="https://komarev.com/ghpvc/?username=YamamotoDesu">  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YamamotoDesu.YamamotoDesu)
+![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
  
 - 🌱 I’m currently learning **Swift and Algorithms**  
  

@@ -4,6 +4,7 @@
  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=YamamotoDesu.YamamotoDesu)
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
+![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
  
 - 🌱 I’m currently learning **Swift and Algorithms**  
  

@@ -2,7 +2,6 @@
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YamamotoDesu.YamamotoDesu)
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
  

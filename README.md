@@ -29,6 +29,7 @@
 ## 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Dart       3 mins          ██████████████▒░░░░░░░░░░   56.76 % 
+Swift      2 mins          ██████████▓░░░░░░░░░░░░░░   43.15 % 
 ```
 <!--END_SECTION:waka-->

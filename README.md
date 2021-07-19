@@ -41,6 +41,4 @@
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Yamamodo/Yamamodo/master/charts/bar_graph.png) 
-
 <!--END_SECTION:waka-->

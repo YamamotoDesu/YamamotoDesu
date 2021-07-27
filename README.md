@@ -25,13 +25,13 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-367-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-368-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 176 Contributions in the Year 2021
+> 🏆 182 Contributions in the Year 2021
  > 
-> 📦 226.5 kB Used in Github's Storage 
+> 📦 235.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,22 +42,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
-🌆 Daytime    59 commits     █████████░░░░░░░░░░░░░░░░   37.82% 
-🌃 Evening    56 commits     █████████░░░░░░░░░░░░░░░░   35.9% 
-🌙 Night      14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97%
+🌞 Morning    27 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+🌆 Daytime    59 commits     █████████░░░░░░░░░░░░░░░░   36.42% 
+🌃 Evening    56 commits     ████████░░░░░░░░░░░░░░░░░   34.57% 
+🌙 Night      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Tuesday      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.56% 
-Wednesday    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
-Thursday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
-Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Saturday     50 commits     ████████░░░░░░░░░░░░░░░░░   32.05% 
-Sunday       51 commits     ████████░░░░░░░░░░░░░░░░░   32.69%
+Monday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Tuesday      10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Wednesday    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Thursday     10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.17% 
+Friday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.73% 
+Saturday     50 commits     ███████░░░░░░░░░░░░░░░░░░   30.86% 
+Sunday       51 commits     ███████░░░░░░░░░░░░░░░░░░   31.48%
 
 ```
 
@@ -68,17 +68,17 @@ Sunday       51 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Swift                    15 hrs 54 mins      ██████████████████░░░░░░░   71.67% 
-Cocoa                    4 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.32% 
-Sketch Drawing           1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
+Swift                    16 hrs 11 mins      █████████████████░░░░░░░░   71.05% 
+Cocoa                    5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   22.11% 
+Sketch Drawing           1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
 
 🔥 Editors: 
-Xcode                    20 hrs 49 mins      ███████████████████████░░   93.77% 
-Sketch                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23%
+Xcode                    21 hrs 23 mins      ███████████████████████░░   93.93% 
+Sketch                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
 
 💻 Operating System: 
-Mac                      22 hrs 12 mins      █████████████████████████   100.0%
+Mac                      22 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -96,5 +96,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->

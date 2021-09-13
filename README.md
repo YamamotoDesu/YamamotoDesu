@@ -29,13 +29,13 @@
 
 **🐱 My Github Data** 
 
-> 🏆 458 Contributions in the Year 2021
+> 🏆 459 Contributions in the Year 2021
  > 
 > 📦 431.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -86,9 +86,9 @@ Mac                      4 hrs 52 mins       ███████████�
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    27 repos            ██████████████████████░░░   90.0% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+Swift                    28 repos            ██████████████████████░░░   90.32% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
 
 ```
 
@@ -98,5 +98,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->

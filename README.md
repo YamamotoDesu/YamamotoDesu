@@ -22,7 +22,7 @@
 <br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -95,5 +95,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/09/2021
+ Last Updated on 25/09/2021
 <!--END_SECTION:waka-->

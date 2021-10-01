@@ -65,17 +65,13 @@ Sunday       120 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-XML                      1 hr 57 mins        ████████████░░░░░░░░░░░░░   47.91% 
-Groovy                   1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   28.08% 
-Kotlin                   58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.85% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16% 
-Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           4 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -94,5 +90,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2021
+ Last Updated on 01/10/2021
 <!--END_SECTION:waka-->

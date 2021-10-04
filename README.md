@@ -22,13 +22,13 @@
 <br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 517 Contributions in the Year 2021
  > 
-> 📦 447.2 kB Used in GitHub's Storage 
+> 📦 447.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,5 +90,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/10/2021
+ Last Updated on 04/10/2021
 <!--END_SECTION:waka-->

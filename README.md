@@ -13,18 +13,6 @@
 </p>
 <br>
 
-## Repository List 　
-### iOS 
-* External Libarary
-<table border="0">
-    <tr>
-        <tr>
-            <th>Instructions</th>
-        </tr>
-        <td><img　src="https://github.com/YamamotoDesu/InstructionsTutorial/blob/main/InstructionsTutorial/Gif/guidedTour.gif"></td>
-    </tr>
-</table>
-
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/YamamotoDesu/YamamotoDesu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YamamotoDesu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs,prs&show_icons=true" alt="YamamotoDesu's GitHub Stats" /><br><br>

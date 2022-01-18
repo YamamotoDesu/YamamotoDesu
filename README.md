@@ -22,17 +22,17 @@
 <br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 121 Contributions in the Year 2022
+> 🏆 123 Contributions in the Year 2022
  > 
 > 📦 505.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 64 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -90,7 +90,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2022
+ Last Updated on 18/01/2022
 <!--END_SECTION:waka-->
 
 

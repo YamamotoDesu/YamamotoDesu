@@ -22,7 +22,7 @@
 <br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -90,7 +90,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 01:40:59 UTC
+ Last Updated on 25/03/2022 01:30:17 UTC
 <!--END_SECTION:waka-->
 
 

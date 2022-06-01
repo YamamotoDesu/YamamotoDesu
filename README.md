@@ -1,4 +1,5 @@
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Hello, folks! 
+
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
  

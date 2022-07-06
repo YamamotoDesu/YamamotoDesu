@@ -16,7 +16,11 @@
 
 ### Yamamoto Note
 ■ RxSwiftで参考になるプロジェクト　<br>
-CleanArchitectureRxSwift
+* RxSwift  
+https://github.com/ReactiveX/RxSwift
+* CleanArchitectureRxSwift  
+https://github.com/sergdort/CleanArchitectureRxSwift
+
 
 
 ## &#x1f4c8; GitHub Stats

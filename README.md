@@ -34,7 +34,7 @@ https://github.com/sergdort/CleanArchitectureRxSwift
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,7 +102,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/07/2022 02:23:11 UTC
+ Last Updated on 16/07/2022 02:04:56 UTC
 <!--END_SECTION:waka-->
 
 

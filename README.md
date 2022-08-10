@@ -32,7 +32,7 @@ https://github.com/sergdort/CleanArchitectureRxSwift
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -77,13 +77,13 @@ Sunday       205 commits    █████████░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 15 mins       █████████████████████████   100.0%
+Kotlin                   2 hrs 5 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 3 hrs 15 mins       █████████████████████████   100.0%
+IntelliJ                 2 hrs 5 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.0%
+Mac                      2 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +103,7 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/08/2022 02:03:17 UTC
+ Last Updated on 10/08/2022 01:56:49 UTC
 <!--END_SECTION:waka-->
 
 

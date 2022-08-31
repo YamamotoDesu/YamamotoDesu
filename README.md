@@ -77,13 +77,13 @@ Sunday       139 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 11 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +103,7 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 02:40:27 UTC
+ Last Updated on 31/08/2022 02:41:59 UTC
 <!--END_SECTION:waka-->
 
 

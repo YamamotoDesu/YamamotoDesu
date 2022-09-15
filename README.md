@@ -77,13 +77,17 @@ Sunday       122 commits    ████████░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   59 mins             ███████████████░░░░░░░░░░   60.17% 
+XML                      28 mins             ███████░░░░░░░░░░░░░░░░░░   28.35% 
+Groovy                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43% 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 hr 38 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 38 mins        █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +106,7 @@ Objective-C              1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 02:34:47 UTC
+ Last Updated on 15/09/2022 02:38:21 UTC
 <!--END_SECTION:waka-->
 
 

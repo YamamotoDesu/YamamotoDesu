@@ -5,22 +5,6 @@
  
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
- 
-- 🌱 I’m currently learning **Swift**  
- 
-- 💬 Ask me about **Swift**  
- 
-- 👯 Always looking to collaborate
-</p>
-<br>
-
-### Yamamoto Note
-■ RxSwiftで参考になるプロジェクト　<br>
-* RxSwift  
-https://github.com/ReactiveX/RxSwift
-* CleanArchitectureRxSwift  
-https://github.com/sergdort/CleanArchitectureRxSwift
-
 
 
 ## &#x1f4c8; GitHub Stats

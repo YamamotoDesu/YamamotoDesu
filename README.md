@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
@@ -54,14 +54,13 @@ Sunday       123 commits    ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Kotlin                   1 hr 38 mins        █████████████████████░░░░   86.09% 
-XML                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.91%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 54 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 54 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,7 +79,7 @@ Objective-C              3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/10/2022 02:36:45 UTC
+ Last Updated on 03/10/2022 02:07:56 UTC
 <!--END_SECTION:waka-->
 
 

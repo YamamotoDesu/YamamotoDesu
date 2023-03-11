@@ -2,6 +2,9 @@
 
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
+
+![image](https://user-images.githubusercontent.com/47273077/224462864-3afdd944-88a2-4661-8538-798daa0ad198.png)
+
  
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)

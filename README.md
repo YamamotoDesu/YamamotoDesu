@@ -82,5 +82,5 @@ HTML                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<img width="400" alt="スクリーンショット 2023-03-11 12 36 13" src="https://user-images.githubusercontent.com/47273077/224462864-3afdd944-88a2-4661-8538-798daa0ad198.png">
+<img width="600" alt="スクリーンショット 2023-03-11 12 36 13" src="https://user-images.githubusercontent.com/47273077/224462864-3afdd944-88a2-4661-8538-798daa0ad198.png">
 

@@ -17,10 +17,12 @@
 * [Designcode(half-hour)](https://designcode.io/tutorials/)
  
 ### 🫖 Saturday
-* [Hackingwithswift(1 hour)](https://www.hackingwithswift.com/)
+* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
+* [Designcode(half-hour)](https://designcode.io/tutorials/)
 * [Udemy(1 hour)](https://www.udemy.com/)
  
 ### 🫖 Sunday
+* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
 * [Designcode(half-hour)](https://designcode.io/tutorials/)
 * [Kodeco(1 hour)](https://www.kodeco.com/home)
 * [Kavsoft(1 hour)](https://www.kodeco.com/home)
@@ -30,10 +32,13 @@
 ## ■　Android(WIP)
  
 ### 🧑‍🔧 Monday ~ Friday
+* [Udemy(half-hour)](https://www.udemy.com/)
  
 ### 🫖 Saturday
+* [Udemy(half-hour)](https://www.udemy.com/)
  
 ### 🫖 Sunday
+* [Udemy(half-hour)](https://www.udemy.com/)
 
 ----
  

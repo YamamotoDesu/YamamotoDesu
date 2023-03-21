@@ -9,6 +9,18 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
 
+## 🧑‍💻 STUDY PLAN For Day off
+### iOS 
+* [Hackingwithswift(1 hour)](https://www.hackingwithswift.com/)
+* [Designcode(half-hour)](https://designcode.io/tutorials/)
+* [Udemy(1 hour)](https://www.udemy.com/)
+* [Kodeco(1 hour)](https://www.kodeco.com/home)
+* [Kavsoft(1 hour)](https://www.kodeco.com/home)
+* Youtube(1 hour)
+
+### Android
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-207%20hrs%2025%20mins-blue)
 

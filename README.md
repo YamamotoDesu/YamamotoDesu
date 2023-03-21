@@ -10,30 +10,30 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
 
 ----
-## 🧑‍💻 STUDY PLAN
-### iOS 
-🧑‍🔧 Monday ~ Friday
+# 🧑‍💻 STUDY PLAN
+## ■ iOS 
+### 🧑‍🔧 Monday ~ Friday
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
 * [Designcode(half-hour)](https://designcode.io/tutorials/)
  
-🫖 Saturday
+### 🫖 Saturday
 * [Hackingwithswift(1 hour)](https://www.hackingwithswift.com/)
 * [Udemy(1 hour)](https://www.udemy.com/)
  
-🫖 Sunday
+### 🫖 Sunday
 * [Designcode(half-hour)](https://designcode.io/tutorials/)
 * [Kodeco(1 hour)](https://www.kodeco.com/home)
 * [Kavsoft(1 hour)](https://www.kodeco.com/home)
 * Youtube(1 hour)
 
  
-### Android(WIP)
+## ■　Android(WIP)
  
-🧑‍🔧 Monday ~ Friday
+### 🧑‍🔧 Monday ~ Friday
  
-🫖 Saturday
+### 🫖 Saturday
  
-🫖 Sunday
+### 🫖 Sunday
 
 ----
  

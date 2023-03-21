@@ -7,10 +7,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
-
 ----
 # 🧑‍💻 STUDY PLAN
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
+ 
 ## ■ iOS 
 ### 🧑‍🔧 Monday ~ Friday
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)

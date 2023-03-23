@@ -17,9 +17,10 @@
 * [Designcode(half-hour)](https://designcode.io/tutorials/)
  
 ### 🫖 Saturday
+* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:20 
+* [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
-* [Designcode(half-hour)](https://designcode.io/tutorials/)
-* [Udemy(1 hour)](https://www.udemy.com/)
+
  
 ### 🫖 Sunday
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)

@@ -8,42 +8,36 @@
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
 
 ----
-# 🧑‍💻 STUDY PLAN
+# 🧑‍💻 STUDY PLAN(WIP)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
  
-## ■ iOS 
+## ■ iOS and Android
 ### 🧑‍🔧 Monday ~ Friday
-* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
-* [Designcode(half-hour)](https://designcode.io/tutorials/)
+* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
+* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 8:30 ~ 9:00
+
  
 ### 🫖 Saturday
-* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:20 
+🧑‍💻AM
+* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
 * [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
-* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
+* [Google-codelabs(half-hour)](https://codelabs.developers.google.com/codelabs) 9:30 ~ 10:30
+
+🧑‍💻PM
+* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 
 
  
 ### 🫖 Sunday
+🧑‍💻AM
+* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
+* [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
+ 
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
-* [Designcode(half-hour)](https://designcode.io/tutorials/)
+
+🧑‍💻PM
 * [Kodeco(1 hour)](https://www.kodeco.com/home)
 * [Kavsoft(1 hour)](https://www.kodeco.com/home)
 * Youtube(1 hour)
-
- 
-## ■　Android(WIP)
- 
-### 🧑‍🔧 Monday ~ Friday
-* [Google-codelabs(half-hour)](https://codelabs.developers.google.com/codelabs)
-* [Udemy(half-hour)](https://www.udemy.com/)
-
- 
-### 🫖 Saturday
-* [Google-codelabs(1 hour)](https://codelabs.developers.google.com/codelabs)
-* [Udemy(half-hour)](https://www.udemy.com/)
- 
-### 🫖 Sunday
-* [Google-codelabs(1 hour)](https://codelabs.developers.google.com/codelabs)
-* [Udemy(half-hour)](https://www.udemy.com/)
 
 ----
  

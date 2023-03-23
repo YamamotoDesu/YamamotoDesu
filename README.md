@@ -15,6 +15,7 @@
 ### 🧑‍🔧 Monday ~ Friday
 * [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 8:30 ~ 9:00
+* [Medium](https://medium.com/)
 
  
 ### 🫖 Saturday and Sunday
@@ -27,6 +28,7 @@
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 
 * [Kavsoft(1 hour)](https://www.kodeco.com/home)
 * Youtube(1 hour)
+* [Medium](https://medium.com/)
 
 ----
  

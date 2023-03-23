@@ -17,25 +17,14 @@
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 8:30 ~ 9:00
 
  
-### 🫖 Saturday
-🧑‍💻AM
+### 🫖 Saturday and Sunday
+【🧑‍💻AM】
 * [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
 * [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
 * [Google-codelabs(half-hour)](https://codelabs.developers.google.com/codelabs) 9:30 ~ 10:30
 
-🧑‍💻PM
+【🧑‍💻PM】
 * [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 
-
- 
-### 🫖 Sunday
-🧑‍💻AM
-* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
-* [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
- 
-* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/)
-
-🧑‍💻PM
-* [Kodeco(1 hour)](https://www.kodeco.com/home)
 * [Kavsoft(1 hour)](https://www.kodeco.com/home)
 * Youtube(1 hour)
 

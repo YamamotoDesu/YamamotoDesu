@@ -32,12 +32,16 @@
 ## ■　Android(WIP)
  
 ### 🧑‍🔧 Monday ~ Friday
+* [Google-codelabs(half-hour)](https://codelabs.developers.google.com/codelabs)
 * [Udemy(half-hour)](https://www.udemy.com/)
+
  
 ### 🫖 Saturday
+* [Google-codelabs(1 hour)](https://codelabs.developers.google.com/codelabs)
 * [Udemy(half-hour)](https://www.udemy.com/)
  
 ### 🫖 Sunday
+* [Google-codelabs(1 hour)](https://codelabs.developers.google.com/codelabs)
 * [Udemy(half-hour)](https://www.udemy.com/)
 
 ----

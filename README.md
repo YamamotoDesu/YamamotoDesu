@@ -113,12 +113,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-
-
-
 ## 🙈For My Notes
-----
-# 🧑‍💻 STUDY PLAN(WIP)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
  
 ## ■ iOS and Android

@@ -6,7 +6,7 @@
 - ⭐️ I’m currently working on creating iOS and Android Apps.
 - 🌱 I’m currently on my way to Master Mobile App Development.
 - 📫 How to contact with me: mynameisyamamotodesu@gmail.com
-- 🔗 My Linkedin Profile: [Linkedin](www.linkedin.com/in/kyo-yamamoto-a2ab50239)
+- 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kyo-yamamoto-a2ab50239)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)

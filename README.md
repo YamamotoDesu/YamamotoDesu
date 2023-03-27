@@ -36,7 +36,7 @@ RxSwift: Reactive Programming with Swift (Fourth Edition) | Combineをはじめ�
  
 Effective Swift | RxSwift研究読本3 ViewModel設計パターン入門 | RxSwift研究読本2 エラーハンドリング編 | RxSwift研究読本1 基礎編 |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/Effective%20Swift.jpeg" width="250" height="340">  | <img src="./images/Effective%20Swift.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本3%20ViewModel設計パターン入門.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本2%20エラーハンドリング編.jpeg" width="250" height="340"> | <img src="./images/RxSwift研究読本1%20基礎編.jpeg" width="250" height="340"> 
+<img src="./images/Effective%20Swift.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本3%20ViewModel設計パターン入門.jpeg" width="250" height="340">   | <img src="./images/RxSwift研究読本2%20エラーハンドリング編.jpeg" width="250" height="340"> | <img src="./images/RxSwift研究読本1%20基礎編.jpeg" width="250" height="340"> 
  
 App Development with Swift
 :-------------------------:

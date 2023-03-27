@@ -26,7 +26,7 @@ Modern Android app using Kotlin, MVVM, Dagger2, RxJava &moreModern   |  Complete
 
 RxSwift: Reactive Programming with Swift (Fourth Edition) | Combineをはじめよう | Effective Swift| RxSwift研究読本3 ViewModel設計パターン入門 | RxSwift研究読本2 エラーハンドリング編 | RxSwift研究読本1 基礎編 | App Development with Swift
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/RxSwift-%20Reactive%20Programming%20with%20Swift.jpg" width="250" height="340"> |  <img src="./images/Combineをはじめよう.jpg" width="250" height="340"> | <img src="./images/Effective%20Swift.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本3%20ViewModel設計パターン入門.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本2%20エラーハンドリング編.jpeg" width="250" height="340"> | <img src="./images/RxSwift研究読本1%20基礎編.jpeg" width="250" height="340">  | <img src="./images/App%20Development%20with%20Swift.webp" width="250" height="340">
+<img src="./images/RxSwift-%20Reactive%20Programming%20with%20Swift.jpg" width="270" height="370"> |  <img src="./images/Combineをはじめよう.jpg" width="270" height="370"> | <img src="./images/Effective%20Swift.jpeg" width="270" height="370">  | <img src="./images/RxSwift研究読本3%20ViewModel設計パターン入門.jpeg" width="270" height="370">  | <img src="./images/RxSwift研究読本2%20エラーハンドリング編.jpeg" width="270" height="370"> | <img src="./images/RxSwift研究読本1%20基礎編.jpeg" width="270" height="370">  | <img src="./images/App%20Development%20with%20Swift.webp" width="270" height="370">
 
 実践 Android Data Binding  
 :-------------------------:

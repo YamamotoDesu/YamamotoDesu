@@ -7,30 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
 
-----
-# 🧑‍💻 STUDY PLAN(WIP)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
- 
-## ■ iOS and Android
-### 🧑‍🔧 Monday ~ Friday
-* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
-* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 8:30 ~ 9:00
-* [Medium](https://medium.com/)
 
- 
-### 🫖 Saturday and Sunday
-【🧑‍💻AM】
-* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
-* [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
-* [Google-codelabs(half-hour)](https://codelabs.developers.google.com/codelabs) 9:30 ~ 10:30
-
-【🧑‍💻PM】
-* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 
-* [Kavsoft(1 hour)](https://www.kodeco.com/home)
-* Youtube(1 hour)
-* [Medium](https://medium.com/)
-
-----
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2010%20mins-blue)
@@ -112,3 +89,29 @@ HTML                     2 repos             ░░░░░░░░░░░�
 
 <img width="600" alt="スクリーンショット 2023-03-11 12 36 13" src="https://user-images.githubusercontent.com/47273077/224462864-3afdd944-88a2-4661-8538-798daa0ad198.png">
 
+
+## For Me
+----
+# 🧑‍💻 STUDY PLAN(WIP)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
+ 
+## ■ iOS and Android
+### 🧑‍🔧 Monday ~ Friday
+* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
+* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 8:30 ~ 9:00
+* [Medium](https://medium.com/)
+
+ 
+### 🫖 Saturday and Sunday
+【🧑‍💻AM】
+* [Designcode(half-hour)](https://designcode.io/tutorials/) 7:30 ~ 8:00 
+* [Udemy(1 hour)](https://www.udemy.com/) 8:30 ~ 9:20 
+* [Google-codelabs(half-hour)](https://codelabs.developers.google.com/codelabs) 9:30 ~ 10:30
+
+【🧑‍💻PM】
+* [Hackingwithswift(half-hour)](https://www.hackingwithswift.com/) 
+* [Kavsoft(1 hour)](https://www.kodeco.com/home)
+* Youtube(1 hour)
+* [Medium](https://medium.com/)
+
+----

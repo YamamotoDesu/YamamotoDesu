@@ -7,8 +7,28 @@
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
 
+### My iOS Certificates 🎖
 
- 
+ Hacking with Swift Certificate | Pro Swift Certificate |   Swift Design Patterns Certificate
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/certificate1.jpg" width="250" height="195"> |  <img src="./images/certificate2.jpg" width="250" height="195"> |  <img src="./images/certificate3.jpg" width="250" height="195">
+
+  Data Structures and Algorithms    |  Professional iOS Development |   Level Up in Auto Layout
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/certificate4.jpeg" width="250" height="195"> |  <img src="./images/certificate5.jpeg" width="250" height="195"> |  <img src="./images/certificate6.jpeg" width="250" height="195">
+
+
+### My books read for iOS 📚
+
+ Hacking with Swift Book | Pro Swift Book | Swift Design Patterns Book
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/book1.png" width="250" height="340"> |  <img src="./images/book2.png" width="250" height="340"> |  <img src="./images/book3.png" width="250" height="340">
+
+ Swift Apprentice Book | Expert Swift Book | Auto Layout by Tutorials Book
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/book4.png" width="250" height="340"> |  <img src="./images/book5.png" width="250" height="340"> |  <img src="./images/book6.png" width="250" height="340">
+
+### Github Stats 🥇 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2010%20mins-blue)
 

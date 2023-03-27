@@ -1,7 +1,13 @@
 ## Hello, folks! 
-
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
+
+- 🏆 I'm a Kodeco(Raywenderlich), Hacking With Swift, Medium, Kavsoft and designcode Founding Member.
+- ⭐️ I’m currently working on creating iOS Apps.
+- 🌱 I’m currently on my way to Master iOS App Development.
+- 💼 I’m looking to collaborate on open source projects that are using SwiftUI and Blockchain technology.
+- 📫 How to contact with me: kevintopollaj@gmail.com
+- 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kevin-topollaj-189b3b154/)
 
 
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)

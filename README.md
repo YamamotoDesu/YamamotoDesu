@@ -20,7 +20,7 @@ iOS Development Security
  
 The Swift Arcade Professional iOS Development Course - UIKit   |  Mastering RxSwift in iOSMastering RxSwift in iOS
 :-------------------------:|:-------------------------:
-<img src="./images/TheSwiftArcadeProfessionaliOSDevelopmentCourse.jpeg" width="250" height="195"> |  <img src="./images/Complete_Kotlin_Coroutines_development_course_2022.jpeg" width="250" height="195"> 
+<img src="./images/TheSwiftArcadeProfessionaliOSDevelopmentCourse.jpeg" width="250" height="195"> |  <img src="./images/MasteringRxSwiftiniOSMasteringRxSwiftiniOS.jpeg" width="250" height="195"> 
  
 Modern Android app using Kotlin, MVVM, Dagger2, RxJava &moreModern   |  Complete Kotlin Coroutines development course 2022 
 :-------------------------:|:-------------------------:

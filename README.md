@@ -22,7 +22,7 @@ Modern Android app using Kotlin, MVVM, Dagger2, RxJava &moreModern   |  Complete
 :-------------------------:|:-------------------------:
 <img src="./images/Modern_Android_app_using_Kotlin_MVVM_Dagger2_RxJava_moreModern.jpeg" width="250" height="195"> |  <img src="./images/Complete_Kotlin_Coroutines_development_course_2022.jpeg" width="250" height="195"> 
 
-### My books read for iOS 📚
+### My books read for iOS and Android 📚
 
 RxSwift: Reactive Programming with Swift (Fourth Edition) | Combineをはじめよう | Effective Swift| RxSwift研究読本3 ViewModel設計パターン入門 | RxSwift研究読本2 エラーハンドリング編 | RxSwift研究読本1 基礎編
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:

@@ -87,7 +87,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<img width="600" alt="スクリーンショット 2023-03-11 12 36 13" src="https://user-images.githubusercontent.com/47273077/224462864-3afdd944-88a2-4661-8538-798daa0ad198.png">
+
 
 
 ## For Me
@@ -113,5 +113,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 * [Kavsoft(1 hour)](https://www.kodeco.com/home)
 * Youtube(1 hour)
 * [Medium](https://medium.com/)
+ 
+<img width="600" alt="スクリーンショット 2023-03-11 12 36 13" src="https://user-images.githubusercontent.com/47273077/224462864-3afdd944-88a2-4661-8538-798daa0ad198.png">
 
 ----

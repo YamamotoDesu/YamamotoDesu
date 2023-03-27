@@ -22,6 +22,16 @@ Modern Android app using Kotlin, MVVM, Dagger2, RxJava &moreModern   |  Complete
 :-------------------------:|:-------------------------:
 <img src="./images/Modern_Android_app_using_Kotlin_MVVM_Dagger2_RxJava_moreModern.jpeg" width="250" height="195"> |  <img src="./images/Complete_Kotlin_Coroutines_development_course_2022.jpeg" width="250" height="195"> 
 
+### My books read for iOS 📚
+
+RxSwift: Reactive Programming with Swift (Fourth Edition) | Combineをはじめよう 
+:-------------------------:|:-------------------------:
+<img src="./images/RxSwift-%20Reactive%20Programming%20with%20Swift.jpg" width="250" height="340"> |  <img src="./images/Combineをはじめよう.jpg" width="250" height="340">
+
+実践 Android Data Binding  
+:-------------------------:
+<img src="./images/実践%20Android%20Data%20Binding.jpg" width="250" height="340"> 
+
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2010%20mins-blue)

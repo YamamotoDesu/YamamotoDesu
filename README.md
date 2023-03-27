@@ -20,7 +20,7 @@ iOS Development Security
  
 App Development with Swift Level 1
 :-------------------------:
-<img src="./images/AppDevelopmentWithSwift.pdf" width="250" height="195">
+<img src="./images/AppDevelopmentWithSwift.jpeg" width="250" height="195">
  
 The Swift Arcade Professional iOS Development Course - UIKit   |  Mastering RxSwift in iOSMastering RxSwift in iOS
 :-------------------------:|:-------------------------:

@@ -3,9 +3,8 @@
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
 
 - 🏆 I'm a Kodeco(Raywenderlich), Hacking With Swift, Medium, Kavsoft and designcode Founding Member.
-- ⭐️ I’m currently working on creating iOS Apps.
-- 🌱 I’m currently on my way to Master iOS App Development.
-- 💼 I’m looking to collaborate on open source projects that are using SwiftUI and Blockchain technology.
+- ⭐️ I’m currently working on creating iOS and Android Apps.
+- 🌱 I’m currently on my way to Master Mobile App Development.
 - 📫 How to contact with me: mynameisyamamotodesu@gmail.com
 - 🔗 My Linkedin Profile: [Linkedin](www.linkedin.com/in/kyo-yamamoto-a2ab50239)
 

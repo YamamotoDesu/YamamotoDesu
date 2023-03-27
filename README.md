@@ -12,13 +12,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)
 
-### My iOS Certificates 🎖
+### My iOS and Android Certificates 🎖
 
- Hacking with Swift Certificate | Pro Swift Certificate |   Swift Design Patterns Certificate
-:-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/certificate1.jpg" width="250" height="195"> |  <img src="./images/certificate2.jpg" width="250" height="195"> |  <img src="./images/certificate3.jpg" width="250" height="195">
-
-  Data Structures and Algorithms    |  Professional iOS Development |   Level Up in Auto Layout
+iOS Development Security 
+:-------------------------:
+<img src="./images/iOS_Development_Security.png" width="250" height="195">
+ 
+Data Structures and Algorithms    |  Professional iOS Development |   Level Up in Auto Layout
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/certificate4.jpeg" width="250" height="195"> |  <img src="./images/certificate5.jpeg" width="250" height="195"> |  <img src="./images/certificate6.jpeg" width="250" height="195">
 

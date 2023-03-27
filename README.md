@@ -14,9 +14,15 @@
 
 ### My iOS and Android Certificates 🎖
 
-iOS Development Security  | The Swift Arcade Professional iOS Development Course - UIKit  |  Mastering RxSwift in iOSMastering RxSwift in iOS | Grocery Shopper App using Realm, SwiftUI in iOS|  App Development with Swift Level 1
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/iOS_Development_Security.png" width="250" height="195"> | <img src="./images/TheSwiftArcadeProfessionaliOSDevelopmentCourse.jpeg" width="250" height="195"> | <img src="./images/MasteringRxSwiftiniOSMasteringRxSwiftiniOS.jpeg" width="250" height="195"> | <img src="./images/GroceryShopperAppusingRealmSwiftUIiniOS.jpeg" width="250" height="195"> | <img src="./images/AppDevelopmentWithSwift.jpg" width="250" height="195">
+iOS Development Security  | The Swift Arcade Professional iOS Development Course - UIKit  |  Mastering RxSwift in iOSMastering RxSwift in iOS
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/iOS_Development_Security.png" width="250" height="195"> | <img src="./images/TheSwiftArcadeProfessionaliOSDevelopmentCourse.jpeg" width="250" height="195"> | <img src="./images/MasteringRxSwiftiniOSMasteringRxSwiftiniOS.jpeg" width="250" height="195"> 
+
+ 
+Grocery Shopper App using Realm, SwiftUI in iOS|  App Development with Swift Level 1
+:-------------------------:|:-------------------------:
+ <img src="./images/GroceryShopperAppusingRealmSwiftUIiniOS.jpeg" width="250" height="195"> | <img src="./images/AppDevelopmentWithSwift.jpg" width="250" height="195">
+ 
  
 Modern Android app using Kotlin, MVVM, Dagger2, RxJava &moreModern   |  Complete Kotlin Coroutines development course 2022 
 :-------------------------:|:-------------------------:
@@ -24,9 +30,17 @@ Modern Android app using Kotlin, MVVM, Dagger2, RxJava &moreModern   |  Complete
 
 ### My books read for iOS and Android 📚
 
-RxSwift: Reactive Programming with Swift (Fourth Edition) | Combineをはじめよう | Effective Swift| RxSwift研究読本3 ViewModel設計パターン入門 | RxSwift研究読本2 エラーハンドリング編 | RxSwift研究読本1 基礎編 | App Development with Swift
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="./images/RxSwift-%20Reactive%20Programming%20with%20Swift.jpg" width="170" height="250"> |  <img src="./images/Combineをはじめよう.jpg" width="170" height="250"> | <img src="./images/Effective%20Swift.jpeg" width="170" height="250">  | <img src="./images/RxSwift研究読本3%20ViewModel設計パターン入門.jpeg" width="170" height="250">  | <img src="./images/RxSwift研究読本2%20エラーハンドリング編.jpeg" width="170" height="250"> | <img src="./images/RxSwift研究読本1%20基礎編.jpeg" width="170" height="250">  | <img src="./images/App%20Development%20with%20Swift.webp" width="170" height="250">
+RxSwift: Reactive Programming with Swift (Fourth Edition) | Combineをはじめよう 
+:-------------------------:|:-------------------------:
+<img src="./images/RxSwift-%20Reactive%20Programming%20with%20Swift.jpg" width="250" height="340"> |  <img src="./images/Combineをはじめよう.jpg"  width="250" height="340"> 
+ 
+Effective Swift | RxSwift研究読本3 ViewModel設計パターン入門 | RxSwift研究読本2 エラーハンドリング編 | RxSwift研究読本1 基礎編 |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./images/Effective%20Swift.jpeg" width="250" height="340">  | <img src="./images/Effective%20Swift.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本3%20ViewModel設計パターン入門.jpeg" width="250" height="340">  | <img src="./images/RxSwift研究読本2%20エラーハンドリング編.jpeg" width="250" height="340"> | <img src="./images/RxSwift研究読本1%20基礎編.jpeg" width="250" height="340"> 
+ 
+App Development with Swift
+:-------------------------:
+<img src="./images/App%20Development%20with%20Swift.webp" width="250" height="340">
 
 実践 Android Data Binding  
 :-------------------------:

@@ -110,7 +110,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 
 
 
-## For Me
+## 🙈For My Notes
 ----
 # 🧑‍💻 STUDY PLAN(WIP)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

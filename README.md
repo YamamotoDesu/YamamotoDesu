@@ -7,7 +7,7 @@
 - 🌱 I’m currently on my way to Master Mobile App Development.
 - 📫 How to contact with me: mynameisyamamotodesu@gmail.com
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kyo-yamamoto-a2ab50239)
-- 🔗 My CV: [CV](https://www.kickresume.com/cv/ZWKvXV/)
+- 🔗 My Resume: [CV](https://www.kickresume.com/cv/ZWKvXV/)
 
 ![GitHub followers](https://img.shields.io/github/followers/YamamotoDesu?label=Follow&style=social)
 ![Waka Readme](https://github.com/YamamotoDesu/YamamotoDesu/workflows/Waka%20Readme/badge.svg)

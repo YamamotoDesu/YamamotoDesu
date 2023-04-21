@@ -48,19 +48,19 @@ App Development with Swift
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 829.6 kB Used in GitHub's Storage 
+> 📦 829.9 kB Used in GitHub's Storage 
  > 
-> 🏆 883 Contributions in the Year 2023
+> 🏆 884 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 268 Public Repositories 
+> 📜 269 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -91,17 +91,17 @@ Sunday                   563 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     30 hrs 46 mins      ██████████████████████░░░   89.62 % 
-XML                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-CocoaPods                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Properties               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Dart                     28 hrs 24 mins      ██████████████████████░░░   89.07 % 
+XML                      1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+CocoaPods                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Properties               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      34 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -121,7 +121,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2023 01:19:24 UTC
+ Last Updated on 21/04/2023 01:19:48 UTC
 <!--END_SECTION:waka-->
 
 

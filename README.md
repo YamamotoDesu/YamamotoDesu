@@ -48,15 +48,15 @@ App Development with Swift
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 837.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,025 Contributions in the Year 2023
+> 🏆 1,024 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,16 +91,15 @@ Sunday                   614 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     34 hrs 50 mins      █████████████████████████   99.06 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Dart                     32 hrs 26 mins      █████████████████████████   99.12 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      35 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -120,7 +119,7 @@ C++                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2023 01:25:23 UTC
+ Last Updated on 02/05/2023 01:22:31 UTC
 <!--END_SECTION:waka-->
 
 

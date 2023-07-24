@@ -15,13 +15,13 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-458%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 864.0 kB Used in GitHub's Storage 
+> 📦 864.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,673 Contributions in the Year 2023
  > 
@@ -58,17 +58,17 @@ Sunday                   708 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     8 hrs 57 mins       █████████████████████████   98.23 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Dart                     9 hrs 37 mins       █████████████████████████   98.35 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-CocoaPods                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+CocoaPods                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -88,7 +88,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2023 00:25:28 UTC
+ Last Updated on 24/07/2023 00:25:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

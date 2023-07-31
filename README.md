@@ -15,7 +15,7 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -58,16 +58,16 @@ Sunday                   708 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     15 hrs 35 mins      ███████████████████████░░   92.18 % 
-YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Dart                     17 hrs 50 mins      ███████████████████████░░   93.10 % 
+YAML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 10 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -87,7 +87,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2023 00:25:19 UTC
+ Last Updated on 31/07/2023 00:24:29 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

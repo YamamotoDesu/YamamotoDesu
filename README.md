@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You+For+Visiting!!✨+You+Are+Welcome+;I+am+Kyo+Yamamoto;Mobile+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You+For+Visiting!!;You+Are+Welcome✨;I+am+Kyo+Yamamoto;Mobile+Developer)](https://git.io/typing-svg)
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
 

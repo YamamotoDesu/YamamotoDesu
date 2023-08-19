@@ -1,9 +1,8 @@
-## Hello, folks! 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thank+You+For+Visiting!!✨+You+Are+Welcome+;I+am+Kyo+Yamamoto;Mobile+Developer)](https://git.io/typing-svg)
 <p>
 <img align="right" src="https://media.giphy.com/media/26ufdb3cYKwbRtYVW/giphy.gif" style="max-width:100%;" height="150px">
 
-- 🏆 I'm a Kodeco(Raywenderlich), Hacking With Swift, Medium, Kavsoft and designcode Founding Member.
-- ⭐️ I’m currently working on creating iOS and Android Apps.
 - 🌱 I’m currently on my way to Master Mobile App Development.
 - 📫 How to contact with me: mynameisyamamotodesu@gmail.com
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kyo-yamamoto-a2ab50239)

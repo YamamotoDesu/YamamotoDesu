@@ -12,9 +12,9 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,18 +55,18 @@ Sunday                   786 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     6 hrs 47 mins       ███████████████░░░░░░░░░░   58.40 % 
-YAML                     2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-Properties               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-ActionScript 3           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Dart                     4 hrs 5 mins        ████████████░░░░░░░░░░░░░   48.38 % 
+YAML                     2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Properties               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+ActionScript 3           18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 30 mins      █████████████████████████   99.04 % 
-Xcode                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+VS Code                  8 hrs 21 mins       █████████████████████████   98.68 % 
+Xcode                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Mac                      11 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -86,7 +86,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/09/2023 00:22:22 UTC
+ Last Updated on 03/09/2023 00:23:23 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

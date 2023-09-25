@@ -12,13 +12,13 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 871.8 kB Used in GitHub's Storage 
+> 📦 871.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2,191 Contributions in the Year 2023
  > 
@@ -55,17 +55,15 @@ Sunday                   824 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     6 hrs 28 mins       ██████████████████████░░░   90.00 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Cheetah                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Dart                     4 hrs 41 mins       ████████████████████████░   96.19 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -85,7 +83,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2023 00:24:32 UTC
+ Last Updated on 25/09/2023 00:23:36 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

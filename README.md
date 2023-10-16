@@ -12,7 +12,7 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-583%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -55,17 +55,17 @@ Sunday                   864 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     11 hrs 37 mins      ███████████████████████░░   92.86 % 
-YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-ActionScript 3           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Dart                     7 hrs 4 mins        ██████████████████████░░░   88.87 % 
+YAML                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+ActionScript 3           20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -85,7 +85,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2023 00:25:07 UTC
+ Last Updated on 16/10/2023 00:24:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

@@ -55,15 +55,13 @@ Sunday                   870 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     59 mins             ███████████████████░░░░░░   74.03 % 
-YAML                     17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Swift** 
@@ -83,7 +81,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 03/11/2023 00:23:54 UTC
+ Last Updated on 04/11/2023 00:22:46 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

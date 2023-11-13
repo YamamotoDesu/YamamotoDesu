@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -81,7 +81,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2023 00:25:32 UTC
+ Last Updated on 13/11/2023 00:24:34 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

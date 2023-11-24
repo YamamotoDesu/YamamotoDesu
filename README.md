@@ -12,11 +12,13 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 875.5 kB Used in GitHub's Storage 
+> 📦 875.6 kB Used in GitHub's Storage 
  > 
 > 🏆 2,513 Contributions in the Year 2023
  > 
@@ -53,13 +55,13 @@ Sunday                   873 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -79,7 +81,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2023 00:24:10 UTC
+ Last Updated on 24/11/2023 00:24:14 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

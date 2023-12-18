@@ -13,9 +13,9 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -56,17 +56,17 @@ Sunday                   874 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Swift                    7 hrs 51 mins       ████████████████████████░   97.91 % 
-CocoaPods                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Swift                    12 hrs 43 mins      █████████████████████████   98.70 % 
+CocoaPods                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  12 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      12 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -86,7 +86,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 17/12/2023 00:27:10 UTC
+ Last Updated on 18/12/2023 00:27:00 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

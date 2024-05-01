@@ -6,7 +6,7 @@
 - 🌱 I’m currently on my way to Master Mobile App Development.
 - 📫 How to contact with me: mynameisyamamotodesu@gmail.com
 - 🔗 My Linkedin Profile: [Linkedin](https://www.linkedin.com/in/kyo-yamamoto-a2ab50239)
-- 🔗 My Resume: [Resume](https://www.kickresume.com/cv/ZWKvXV/)
+- 🔗 My Resume: [Resume](www.kickresume.com/cv/rNok4e/)
 - 🔗 My Upwark Profile: [Upwark](https://www.upwork.com/freelancers/~01aa9115102bb4af25)
 
 <a href="https://www.buymeacoffee.com/kyoyamamoto" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>

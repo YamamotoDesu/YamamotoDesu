@@ -19,7 +19,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 932.2 kB Used in GitHub's Storage 
+> 📦 932.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 494 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -54,16 +56,16 @@ Sunday                   969 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Dart                     10 hrs 40 mins      █████████████████████░░░░   85.53 % 
-Swift                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Dart                     10 hrs 40 mins      ███████████████████████░░   92.98 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Swift                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 28 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -83,7 +85,7 @@ Objective-C              4 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2024 00:26:57 UTC
+ Last Updated on 05/05/2024 00:27:30 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

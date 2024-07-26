@@ -14,13 +14,13 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 952.1 kB Used in GitHub's Storage 
- > 
-> 🏆 935 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,16 +32,16 @@
 
 ```text
 🌞 Morning                4986 commits        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌆 Daytime                9657 commits        ██████████████░░░░░░░░░░░   54.82 % 
-🌃 Evening                2933 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+🌆 Daytime                9657 commits        ██████████████░░░░░░░░░░░   54.81 % 
+🌃 Evening                2936 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 🌙 Night                  41 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   3049 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  3553 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Wednesday                3662 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
+Monday                   3049 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Tuesday                  3554 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Wednesday                3664 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
 Thursday                 2877 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 Friday                   2648 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 Saturday                 784 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
@@ -82,7 +82,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2024 00:29:24 UTC
+ Last Updated on 26/07/2024 00:29:07 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

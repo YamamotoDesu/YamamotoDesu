@@ -14,7 +14,7 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,16 @@ Sunday                   1173 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Swift                    16 hrs 12 mins      ████████████████████████░   94.91 % 
-Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Objective-C              20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Cocoa                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Swift                    12 hrs 28 mins      ████████████████████████░   96.95 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Xcode                    17 hrs 4 mins       █████████████████████████   100.00 % 
+Xcode                    12 hrs 52 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -87,7 +86,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 00:37:08 UTC
+ Last Updated on 25/11/2024 00:35:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

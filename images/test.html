@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Permissions Policy Violation</title>
+    <!-- Intentionally restricting the accelerometer -->
+    <meta http-equiv="Permissions-Policy" content="accelerometer=()">
+</head>
+<body>
+    <h1>Testing Accelerometer Permissions</h1>
+    <p>This document intentionally restricts accelerometer usage.</p>
+
+    <script>
+        // Try accessing the accelerometer
+        if (window.DeviceMotionEvent) {
+            console.log("DeviceMotionEvent is supported.");
+            window.addEventListener('devicemotion', (event) => {
+                console.log(event);
+            });
+        } else {
+            console.log("DeviceMotionEvent is NOT supported.");
+        }
+    </script>
+</body>
+</html>

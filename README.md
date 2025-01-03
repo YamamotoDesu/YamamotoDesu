@@ -22,8 +22,6 @@
 
 > 📦 961.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 369 Public Repositories 
@@ -57,14 +55,15 @@ Sunday                   1207 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Swift                    2 hrs 58 mins       █████████████████████████   98.52 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Swift                    11 hrs 40 mins      ████████████████████████░   97.38 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Xcode                    3 hrs 1 min         █████████████████████████   100.00 % 
+Xcode                    11 hrs 59 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -84,7 +83,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2025 00:36:30 UTC
+ Last Updated on 03/01/2025 00:38:12 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

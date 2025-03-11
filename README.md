@@ -14,9 +14,9 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C072%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,9 +73,9 @@ Mac                      5 hrs 49 mins       ███████████�
 **I Mostly Code in Swift** 
 
 ```text
-Swift                    174 repos           ████████████████░░░░░░░░░   63.04 % 
-C++                      37 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Kotlin                   28 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Swift                    174 repos           ████████████████░░░░░░░░░   62.82 % 
+C++                      38 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Kotlin                   28 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 Objective-C              5 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
@@ -87,7 +87,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 00:34:11 UTC
+ Last Updated on 11/03/2025 00:36:48 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

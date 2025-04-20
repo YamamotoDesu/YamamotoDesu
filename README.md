@@ -16,13 +16,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 964.0 kB Used in GitHub's Storage 
  > 
-> 🏆 252 Contributions in the Year 2025
+> 🏆 253 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,17 +57,15 @@ Sunday                   1482 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.86 % 
-XML                      2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-Swift                    1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Cocoa                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    1 hr 33 mins        ████████████░░░░░░░░░░░░░   49.70 % 
+Swift                    1 hr 6 mins         █████████░░░░░░░░░░░░░░░░   35.38 % 
+XML                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
 
 🔥 Editors: 
-Xcode                    7 hrs 23 mins       █████████████████████████   100.00 % 
+Xcode                    3 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Swift** 
@@ -87,7 +85,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 00:37:02 UTC
+ Last Updated on 20/04/2025 00:40:03 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

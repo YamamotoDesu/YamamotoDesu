@@ -14,15 +14,13 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 975.5 kB Used in GitHub's Storage 
  > 
-> 🏆 893 Contributions in the Year 2025
+> 🏆 900 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,42 +28,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15841 commits       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌆 Daytime                28889 commits       ███████████░░░░░░░░░░░░░░   45.59 % 
-🌃 Evening                18051 commits       ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-🌙 Night                  589 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   10976 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  13536 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Wednesday                12884 commits       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Thursday                 12310 commits       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Friday                   9522 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Saturday                 1893 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Sunday                   2249 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Swift** 
 
 ```text
@@ -83,7 +45,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 00:39:04 UTC
+ Last Updated on 17/09/2025 00:39:40 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

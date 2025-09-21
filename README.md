@@ -14,6 +14,8 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2055%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -28,6 +30,42 @@
  > 
 > 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                17850 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌆 Daytime                32243 commits       ███████████░░░░░░░░░░░░░░   44.90 % 
+🌃 Evening                21020 commits       ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+🌙 Night                  698 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   12441 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Tuesday                  15427 commits       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+Wednesday                14693 commits       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Thursday                 14158 commits       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Friday                   10869 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Saturday                 1950 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Sunday                   2273 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Swift** 
 
 ```text
@@ -45,7 +83,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 00:41:48 UTC
+ Last Updated on 21/09/2025 00:42:39 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

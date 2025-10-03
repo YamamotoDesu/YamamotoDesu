@@ -14,15 +14,13 @@
 
 ### Github Stats 🥇 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 976.3 kB Used in GitHub's Storage 
+> 📦 976.4 kB Used in GitHub's Storage 
  > 
-> 🏆 943 Contributions in the Year 2025
+> 🏆 948 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,42 +28,6 @@
  > 
 > 🔑 16 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                20154 commits       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
-🌆 Daytime                36051 commits       ███████████░░░░░░░░░░░░░░   44.17 % 
-🌃 Evening                24532 commits       ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌙 Night                  875 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   14134 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Tuesday                  17599 commits       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Wednesday                16731 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Thursday                 16292 commits       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Friday                   12522 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Saturday                 2020 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-Sunday                   2314 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Swift** 
 
 ```text
@@ -83,7 +45,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:41:50 UTC
+ Last Updated on 03/10/2025 00:41:08 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)

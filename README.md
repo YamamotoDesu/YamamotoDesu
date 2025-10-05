@@ -20,7 +20,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 976.4 kB Used in GitHub's Storage 
+> 📦 976.2 kB Used in GitHub's Storage 
  > 
 > 🏆 949 Contributions in the Year 2025
  > 
@@ -83,7 +83,7 @@ Go                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/YamamotoDesu/YamamotoDesu/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 00:42:33 UTC
+ Last Updated on 05/10/2025 00:44:14 UTC
 <!--END_SECTION:waka-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamamotoDesu&theme=vue)
